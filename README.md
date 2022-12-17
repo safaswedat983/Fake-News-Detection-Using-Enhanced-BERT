@@ -19,3 +19,13 @@ The dataset which used in this study is downloaded from Kaggle website (www.kagg
 The following figure shows an overview of the methodology that is applied in this work. To get the full details about the methodology, please refer to the paper.
 
 ![image](https://user-images.githubusercontent.com/120778517/208239032-91c06d41-c854-4806-9573-eb10ec308849.png)
+
+# Cite this as
+
+@article{aljawarneh2022fake,
+  title={Fake News Detection Using Enhanced BERT},
+  author={Aljawarneh, Shadi A and Swedat, Safa Ahmad},
+  journal={IEEE Transactions on Computational Social Systems},
+  year={2022},
+  publisher={IEEE}
+}
